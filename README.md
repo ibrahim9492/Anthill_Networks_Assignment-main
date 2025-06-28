@@ -2,7 +2,9 @@ Anthill_Networks_Assignment
 
 Task-1: Second Hand Car Buying Application
 
-This is a Second Hand Car Application built with ReactJS for the frontend and Firebase for the backend. The application allows users to buy and sell second-hand cars, while admins can manage car listings and purchase requests.
+This is a Second Hand Car Application built with ReactJS for the frontend and Firebase for the backend. The application allows users to buy and sell second-hand cars, while admins can manage car listings and purchase
+
+requests.
 
 Features
 
